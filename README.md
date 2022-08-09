@@ -44,11 +44,21 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulmohamedm&theme=vue"/>
 </p>
 
-## GitHub Statistics
+## 🧑‍💻 GitHub Statistics
   <p align="center">
-  <img src>="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github">    <img  alt="AbdulMohamedM's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AbdulMohamedM?cardType=github" />  </p>
+  <img  alt="AbdulMohamedM's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AbdulMohamedM?cardType=github" />  </p>
 
-### ✍️Random Dev Quote
+## 📝 Language Statistics
+<p align="center">
+  <img align="center" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMohamedM&hide=html&theme=dark&layout=compact&langs_count=8"> </p>
+
+## 📝 Streaks Statistics
+<p align="center">
+<img align="center" width="47%"  src="https://github-readme-streak-stats.herokuapp.com?user=AbdulMohamedM&theme=dark"> </p>
+
+
+
+## ✍️Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue"/>
 </p>
