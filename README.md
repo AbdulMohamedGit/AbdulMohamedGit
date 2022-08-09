@@ -2,6 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Abdul Mohamed</h1>
+	 
+	 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%93++6x+Microsoft+Certified+;%E2%98%81%EF%B8%8F+Cloud+Enthusiast+;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Lifelong+Learner+%F0%9F%93%9A;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8F%AB+Microsoft+Certified+Trainer+">https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%93++6x+Microsoft+Certified+;%E2%98%81%EF%B8%8F+Cloud+Enthusiast+;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Lifelong+Learner+%F0%9F%93%9A;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8F%AB+Microsoft+Certified+Trainer+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulMohamedM&label=Views&color=blue&style=plastic&style=for-the-badge" alt="AbdulMohamedM" /> </p>
 <p align="right"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{AbdulMohamedM}1212%2Fhit-counter" /> </p>
