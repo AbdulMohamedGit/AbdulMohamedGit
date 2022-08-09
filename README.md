@@ -1,7 +1,4 @@
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Abdul Mohamed</h1>
+<h1 align="center">Hello 👋🏻, I'm Abdul Mohamed</h1>
 	 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%93++6x+Microsoft+Certified+;%E2%98%81%EF%B8%8F+Cloud+Enthusiast++;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8F%AB+Microsoft+Certified+Trainer+;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" /> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulMohamedM&label=Views&color=blue&style=plastic&style=for-the-badge" alt="AbdulMohamedM" /> </p>
