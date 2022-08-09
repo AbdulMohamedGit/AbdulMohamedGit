@@ -45,12 +45,9 @@
 
 ### ✍️Random Dev Quote
 <p align="center">
-![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
-[![Dev](https://visitcount.itsvg.in/api?id=abdulmohamedm&icon=0&color=1)](https://visitcount.itsvg.in)
-
----
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue"/>
 </p>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
