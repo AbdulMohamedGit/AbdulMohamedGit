@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with DevSecOps...
 - 💬 Ask me about Microsoft Azure, DevSecOps....
 - 📫 How to reach me: Check social links below.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend my day almost Learning every day.
 
 ## 🌐 Socials
