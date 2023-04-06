@@ -30,7 +30,7 @@
 ## 🏆 Badges <h2> <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 To see all the other badges are [here](https://www.credly.com/users/abdulmohamedm/badges)
 <!--START_SECTION:badges-->
-[![Azure Fundamentals](https://images.credly.com/size/100x100/images/b9211e52-9bef-451c-aee5-b717f8af0257/Azure Fundamentals.png)](http://www.credly.com/badges/b9211e52-9bef-451c-aee5-b717f8af0257 "Azure Fundametals")
+[![Azure Fundamentals](https://images.credly.com/size/100x100/images/b9211e52-9bef-451c-aee5-b717f8af0257/Azure_Fundamentals.png)](http://www.credly.com/badges/b9211e52-9bef-451c-aee5-b717f8af0257 "Azure Fundametals")
 <!--END_SECTION:badges-->
 
 
