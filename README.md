@@ -28,7 +28,8 @@
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
 ## 🏆 Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b9211e52-9bef-451c-aee5-b717f8af0257" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/b9211e52-9bef-451c-aee5-b717f8af0257"><img src="https://www.credly.com/embedded_badge/b9211e52-9bef-451c-aee5-b717f8af0257" alt="Azure Fundamentals" width="100" height="100" align="left"></a>
+
 
 ## 🪀 Toys
 ![Raspberrypi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
