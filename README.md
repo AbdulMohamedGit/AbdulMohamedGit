@@ -27,8 +27,11 @@
 ## 📚 Education
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
-## 🏆 Badges
-<a href="https://www.credly.com/badges/b9211e52-9bef-451c-aee5-b717f8af0257"><img src="https://www.credly.com/embedded_badge/b9211e52-9bef-451c-aee5-b717f8af0257" alt="Azure Fundamentals" width="100" height="100" align="left"></a>
+## 🏆 Badges <h2> <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+To see all the other badges are [here](https://www.credly.com/users/abdulmohamedm/badges)
+<!--START_SECTION:badges-->
+[![Azure Fundamentals](https://images.credly.com/size/100x100/images/b9211e52-9bef-451c-aee5-b717f8af0257/Azure Fundamentals.png)](http://www.credly.com/badges/b9211e52-9bef-451c-aee5-b717f8af0257 "Azure Fundametals")
+<!--END_SECTION:badges-->
 
 
 ## 🪀 Toys
